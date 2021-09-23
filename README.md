@@ -2,10 +2,10 @@
 
 ### 0. Feladat: Ennek a felsorolásnak a felülírása a következő adatokkal:
 
-1. csapattag neve és GitHub felhasználóneve
-2. csapattag neve és GitHub felhasználóneve
-3. csapattag neve és GitHub felhasználóneve
-4. csapattag neve és GitHub felhasználóneve
+1. Klem-Gál Anna - AnnaKlemGal
+2. Horváth Bence - horvath-bence
+3. Várday Gábor - szegabor
+4. Kapocsi Szabolcs - kszabi96
 
 ### 1. Feladat (határidő a PR nyitására: 10.06.)
 
